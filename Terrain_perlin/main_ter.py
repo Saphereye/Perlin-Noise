@@ -17,8 +17,8 @@ def main():
 #i=1,2,3 for best result, mostly
 if __name__=="__main__":
 	from PIL import Image
-  height = 100
-  width = 100
+	height = 100
+	width = 100
 	main()
 	
 """This code will produce ten images of 100x100 dimension which are to
