@@ -20,3 +20,6 @@ if __name__=="__main__":
   height = 100
   width = 100
 	main()
+	
+"""This code will produce ten images of 100x100 dimension which are to
+be then compiled together to get the required terrain"""
